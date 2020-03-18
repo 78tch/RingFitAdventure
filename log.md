@@ -50,7 +50,7 @@ DAY 59/90|2020/03/01
 --|--
 リングフィットアドベンチャー|エレコム ECLEAR
 <img src="log2020/image_202003/ETY9w9jU8AABYZ0.jpeg" alt="20200318">|<img src="log2020/image_202003/Screenshot_20200319-060629.png" alt="20200319">
-<img src="log2020/image_202003/ETT5UbNUcAIWawA.jpeg" alt="20200317">|<img src="log2020/image_202003/Screenshot_20200317-060522.png" alt="20200318">
+<img src="log2020/image_202003/ETT5UbNUcAIWawA.jpeg" alt="20200317">|<img src="log2020/image_202003/Screenshot_20200318-061221.png" alt="20200318">
 <img src="log2020/image_202003/ETOuMnMU8AAOiC4.jpeg" alt="20200316">|<img src="log2020/image_202003/Screenshot_20200317-060522.png" alt="20200317">
 <img src="log2020/image_202003/ETJsmNAU4AA78fY.jpeg" alt="20200315">|<img src="log2020/image_202003/Screenshot_20200316-060358.png" alt="20200316">
 <img src="log2020/image_202003/ES5_jtxUMAATEYs.jpeg" alt="20200312">|<img src="log2020/image_202003/Screenshot_20200313-060849.png" alt="20200313">
