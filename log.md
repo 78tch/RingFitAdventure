@@ -9,6 +9,8 @@
 2020年|3月
 --|--
 リングフィットアドベンチャー|エレコム ECLEAR
+DAY 76/90|2020/03/18
+もう１つコースをこなそうか迷ったがセーブした。めちゃくちゃ追い込む、ということはなかったが、しっかりやれたかな。|横ばい。引き続きぜい肉を落としていく。
 DAY 75/90|2020/03/17
 意識的に脈があがるようなフィットスキルをやっている。ふくらはぎやももの筋肉がくっきりしてきた。大胸筋や上腕二頭筋も、固く、動かせるようになってきた。少しずつだがカラダがいいほうに変化してる感覚がある。|横ばい。しかし筋肉がだいぶ発達してきているので、脂肪は減っているのだろう。まだ筋肉付きすぎということはないので、９０日まであと２週間、このまま行ってみる。
 DAY 74/90|2020/03/16 
@@ -47,7 +49,8 @@ DAY 59/90|2020/03/01
 2020年|3月
 --|--
 リングフィットアドベンチャー|エレコム ECLEAR
-<img src="log2020/image_202003/ETT5UbNUcAIWawA.jpeg" alt="20200317">|<img src="log2020/image_202003/Screenshot_20200317-060522 (1).png" alt="20200318">
+<img src="log2020/image_202003/ETY9w9jU8AABYZ0.jpeg" alt="20200318">|<img src="log2020/image_202003/Screenshot_20200319-060629.png" alt="20200319">
+<img src="log2020/image_202003/ETT5UbNUcAIWawA.jpeg" alt="20200317">|<img src="log2020/image_202003/Screenshot_20200317-060522.png" alt="20200318">
 <img src="log2020/image_202003/ETOuMnMU8AAOiC4.jpeg" alt="20200316">|<img src="log2020/image_202003/Screenshot_20200317-060522.png" alt="20200317">
 <img src="log2020/image_202003/ETJsmNAU4AA78fY.jpeg" alt="20200315">|<img src="log2020/image_202003/Screenshot_20200316-060358.png" alt="20200316">
 <img src="log2020/image_202003/ES5_jtxUMAATEYs.jpeg" alt="20200312">|<img src="log2020/image_202003/Screenshot_20200313-060849.png" alt="20200313">
