@@ -9,6 +9,8 @@
 2020年|3月
 --|--
 リングフィットアドベンチャー|エレコム ECLEAR
+DAY 77/90|2020/03/19
+今日のワールドは走行が少ないコースが多い割には、足に効いた。ここ数日で、手足が筋肉質に変化したのを感じる。|ほぼ横ばい。しかし体つきは少しずつ筋肉質になっていっている。いい傾向。
 DAY 76/90|2020/03/18
 もう１つコースをこなそうか迷ったがセーブした。めちゃくちゃ追い込む、ということはなかったが、しっかりやれたかな。|横ばい。引き続きぜい肉を落としていく。
 DAY 75/90|2020/03/17
@@ -49,6 +51,7 @@ DAY 59/90|2020/03/01
 2020年|3月
 --|--
 リングフィットアドベンチャー|エレコム ECLEAR
+<img src="log2020/image_202003/ETeLZ4RUUAEXwew.jpeg" alt="20200319">|<img src="log2020/image_202003/Screenshot_20200320-062924.png" alt="20200320">
 <img src="log2020/image_202003/ETY9w9jU8AABYZ0.jpeg" alt="20200318">|<img src="log2020/image_202003/Screenshot_20200319-060629.png" alt="20200319">
 <img src="log2020/image_202003/ETT5UbNUcAIWawA.jpeg" alt="20200317">|<img src="log2020/image_202003/Screenshot_20200318-061221.png" alt="20200318">
 <img src="log2020/image_202003/ETOuMnMU8AAOiC4.jpeg" alt="20200316">|<img src="log2020/image_202003/Screenshot_20200317-060522.png" alt="20200317">
